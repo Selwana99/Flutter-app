@@ -1,0 +1,20 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+pubspec.lock
+
+# Build outputs
+build/
+android/app/build/
+ios/Pods/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Secrets
+*.env
+*.json
